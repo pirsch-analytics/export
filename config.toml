@@ -1,0 +1,9 @@
+client_id = "DZZbGjgUwwBOTds4fdrpjrjLFrxUMC0v"
+client_secret = "udqh9ZA1mFSkubpP4A338U4qBDvqCk5onLt5st6dPcsEUUJN7LcbAaroaECcjgRd"
+hostname = "pirsch.io"
+
+export = [
+    "conversion_goals_day"
+]
+from = 2022-01-01
+to = 2022-04-29
